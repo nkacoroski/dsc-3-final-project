@@ -1,3 +1,5 @@
+# Functions for cleaning categorical data
+
 def select_features(dataframe, dtype, exclude_list):
     """Returns list of columns names to include as features"""
     columns = list(dataframe.select_dtypes(include=dtype).columns.values)

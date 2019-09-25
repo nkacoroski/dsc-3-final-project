@@ -2,7 +2,7 @@
 
 This is the Module 3 Final Project for the Flatiron Seattle Data Science Program by [Natasha Kacoroski]
 (https://github.com/nkacoroski) and [Jacob Crabb](https://github.com/AlludedCrabb). The goal of this project was to 
-demonstrate our ability to select and gather information from a dataset create a classification model.
+demonstrate our ability to select and gather information from a dataset and create a classification model.
 company/stakeholder. For our dataset, we chose the [USDA Plants Database](Welcome to the PLANTS Database | USDA PLANTS) and
 attempted to classify whether or not a plant is invasive based on its characteristics. This has real-world applications in
 agriculture and invasive species management. The slide deck for our presentation can be found [here](slide_presentation.pdf).
